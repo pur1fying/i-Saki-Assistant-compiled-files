@@ -1,0 +1,10 @@
+.cmake
+CMakeFiles
+Testing
+.ninja_deps
+config
+.ninja_log
+output
+CMakeCache.txt
+opencv_world490d.dll
+build.ninja
