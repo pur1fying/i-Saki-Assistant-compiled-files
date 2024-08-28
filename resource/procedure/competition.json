@@ -6,8 +6,11 @@
       "competition_start-rehearsal_appear"
     ],
     "possibles": [
-      ["main_page_competition-checked_appear", 475, 893]
-    ]
+      ["main_page_competition-checked_appear", 475, 893],
+      ["competition_season-record_appear", 640, 360],
+      ["competition_rank-up_appear", 360, 640]
+    ],
+    "tentative_click": [true, 360, 640, 5]
   },
   "COMPETITION_SOLVE": {
     "procedure_type": 0,
@@ -21,7 +24,10 @@
       ["competition_lose-one-competition_appear", 360, 640],
       ["competition_next_appear", 368, 1164],
       ["competition_end_appear", 368, 1164],
-      ["common_close-notice-button_appear", 368, 1164]
-    ]
+      ["common_close-notice-button_appear", 368, 1164],
+      ["competition_season-record_appear", 360, 640],
+      ["competition_rank-up_appear", 360, 640]
+    ],
+    "tentative_click": [true, 360, 640, 3]
   }
 }
