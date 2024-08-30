@@ -47,7 +47,7 @@
     "name": "start-battle"
   },
   "competition_skip_appear":{
-    "feature_type": 0,
+    "feature_type": 1,
     "group": "competition",
     "name": "skip"
   },
